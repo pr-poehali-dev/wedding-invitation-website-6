@@ -33,7 +33,7 @@ const Index = () => {
               <Icon name="Heart" size={32} className="text-primary" />
             </div>
             <h1 className="text-6xl md:text-8xl font-cormorant font-light mb-4">
-              Анна & Михаил
+              Polina & Konstantin
             </h1>
             <p className="text-2xl md:text-3xl text-muted-foreground font-light mb-8">
               Приглашаем вас разделить с нами<br />самый важный день нашей жизни
